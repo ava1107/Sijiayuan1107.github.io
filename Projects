@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="example.css" type="text/css" />
+<title>Chris(Ce) ZHENG &ndash; Presentations</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Chris(Ce) ZHENG</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="education.html">Education</a></div>
+<div class="menu-item"><a href="ZHENGCe__CV.pdf">Resume</a></div>
+
+<div class="menu-category">Work</div>
+<div class="menu-item"><a href="project.html">Projects</a></div>
+<div class="menu-item"><a href="project.html">Collaborations</a></div>
+  
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="interests.html">Interests</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="pre.html" class="current">Presentations</a></div>
+  
+<div class="menu-category">Micellanious</div>
+<div class="menu-item"><a href="RG.html">Travel</a></div>
+<div class="menu-item"><a href="RG.html">Pet Lover</a></div>
+<div class="menu-item"><a href="menu.html">Cooking</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Chris(Ce) ZHENG &ndash; Presentations</h1>
+</div>
+
+<h1>Project</h1>
+<ul>
+  <li><p><a href="https://project.inria.fr/arburst/">Arburst</a>, 
+    May 2022@WCNC, Austin(Online), US</p>
+</li>
+<li><p><a href="">  </a>,
+</li>
+</ul>
+
+<h1>Others</h1>
+<ul>
+  <p><a href="Sony_AIconference_CeZHENG.pdf"> Choosing a proper starting point in SGD by exploiting dependence between features — an intuition from resource allocation in 
+    event triggered communication</a>, Dec 2021@SONY AI Conference, Online</p>
+</li>
+  <li><p></p>
+</li>
+<li><p></p></li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-01-31 00:01:46 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
