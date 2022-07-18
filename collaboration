@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="example.css" type="text/css" />
+<title>Chris(Ce) ZHENG &ndash; Education</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Chris(Ce) ZHENG</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="education.html" class="current">Education</a></div>
+<div class="menu-item"><a href="ZHENGCe__CV.pdf">Resume</a></div>
+  
+<div class="menu-category">Work</div>
+<div class="menu-item"><a href="project.html">Projects</a></div>
+<div class="menu-item"><a href="collaboration.html">Collaborations</a></div>
+  
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="interests.html">Interests</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="pre.html">Presentations</a></div>
+  
+<div class="menu-category">Micellanious</div>
+<div class="menu-item"><a href="RG.html">Travel</a></div>
+<div class="menu-item"><a href="RG.html">Dog lover</a></div>
+<div class="menu-item"><a href="menu.html">Cooking</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Chris(Ce) ZHENG &ndash; Education</h1>
+</div>
+<h1>Education</h1>
+<ul>
+<li><p><div style="float:left;">Université de Lille</div>          <div style="float:right;">Oct 2017 - Dec 2020</div>            <br />
+Doctor Degree of Engineering, <br />
+Supervisor: <a href="http://pagesperso.telecom-lille.fr/clavier/">Laurent CLAVIER</a>, <a href="https://malcolmalexegan.wordpress.com/">Malcolm EGAN</a>
+  , and <a href="https://scholar.google.fr/citations?user=Tqdt9JYAAAAJ&hl=fr">Laurent CLAVIER</a></p>   
+</li>
+</ul>
+<ul>
+<li><p><div style="float:left;">Xi'an Jiaotong University</div>          <div style="float:right;">Sept 2013 - Jun 2016</div>      <br />
+Master Degree of Engineering<br />
+Supervisor: Xinmin LUO</p>
+</li>
+</ul>
+<ul>
+<li><p><div style="float:left;">Harbin Institue of Technology</div>     <div style="float:right;">Sep 2009 - July 2016</div>      <br />
+Bachelor Degree of Engineering
+ </p>
+</li>
+</ul>
+<ul>
+<li><p><div style="float:left;">Aalborg University</div>                 <div style="float:right;">Sept 2019 - Dec 2019</div>       <br />
+Guest PhD student
+Department of Electronic Systems<br />
+Supervisor: <a href="https://vbn.aau.dk/en/persons/106895">Troels PEDERSEN</a> and <a href="http://petarpopovski.es.aau.dk/">Petar POPOVSKI</a></p>
+</li>
+</ul>
+<h1>Honors and Awards</h1>
+<ul>
+<li><p><div style="float:left;">Mobility Grant</div>,                   <div style="float:right;">09/2019 - 12/2019</div><br />
+  Support of visit to Aalborg University in Denmark,<br />
+  Université de Lille, Europe</p>
+</li>
+</li><p><div style="float:left;">IRACON 5th TS Grant</div>,             <div style="float:right;">12/2018</div> 12/2019<br />
+  Training school held in Lyon, <br />
+  The Inclusive Radio Communications (IRACON),  Europe <br /></p>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-01-31 00:01:35 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
