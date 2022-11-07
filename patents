@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="example.css" type="text/css" />
+<title>Ce ZHENG (Chris) &ndash; Publications</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Ce ZHENG (Chris)</div>
+  <div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="education.html">Education</a></div>
+<div class="menu-item"><a href="ZHENGCe__CV.pdf">Resume(English)</a></div>
+<div class="menu-item"><a href="ChineseCV_ZC.pdf">Resume(Chinese)</a></div>  
+
+<div class="menu-category">Work</div>
+<div class="menu-item"><a href="project.html">Projects</a></div>
+<div class="menu-item"><a href="collaboration.html">Collaborations</a></div>
+  
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="interests.html">Interests</a></div>
+<div class="menu-item"><a href="publications.html" class="current">Publications</a></div>
+<div class="menu-item"><a href="patents.html">Patents</a></div>
+<div class="menu-item"><a href="pre.html">Presentations</a></div>
+  
+<div class="menu-category">Micellanious</div>
+<div class="menu-item"><a href="RG.html">Travel</a></div>
+<div class="menu-item"><a href="RG.html">Pet Lover</a></div>
+<div class="menu-item"><a href="menu.html">Cooking</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Ce ZHENG (Chris) &ndash; Publications</h1>
+</div>
+  * student mentored by me
+  <h1>Preprints</h1>
+    <p><b></b></p>
+<h1>Journal Publications</h1>
+  <p>[J3] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Gareth W. Peters, and Jean-Marie Gorce. <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-022-02110-w">
+    "On the interference arising from random spatial fields of interferers utilizing multiple subcarriers"</a>. 
+    EURASIP Journal on Wireless Communications and Networking 2022, no. 1 (2022): 1-29.</p>  
+  <p>[J2] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Anders E. Kalør, and Petar Popovski. <a href="https://ieeexplore.ieee.org/abstract/document/9458251">
+    "Stochastic resource optimization of random access for transmitters with correlated activation"</a>.
+    IEEE Communications Letters 25, no. 9 (2021): 3055-3059.</p>  
+  <p>[J1] Egan, Malcolm, Laurent Clavier, <b>Ce Zheng</b>, Mauro de Freitas, and Jean-Marie Gorce. <a href="https://link.springer.com/article/10.1186/s13638-018-1225-z">
+    "Dynamic interference for uplink SCMA in large-scale wireless networks without coordination"</a>.
+    EURASIP Journal on Wireless Communications and Networking 2018, no. 1 (2018): 1-14.
+<h1>Conference Publications</h1>
+  <p>[C5] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Anders E. Kalør, and Petar Popovski. <a href="https://ieeexplore.ieee.org/abstract/document/9771709">
+    "Stochastic Resource Allocation for Outage Minimization in Random Access with Correlated Activation"</a>. 
+    In 2022 IEEE Wireless Communications and Networking Conference (WCNC), pp. 1635-1640. IEEE, 2022.
+  <p>[C4] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Troels Pedersen, and Jean-Marie Gorce. <a href="https://ieeexplore.ieee.org/abstract/document/9458251">
+    "Linear combining in dependent α-stable interference"</a>. 
+    In ICC 2020-2020 IEEE International Conference on Communications (ICC), pp. 1-6. IEEE, 2020.
+  <p>[C3] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Gareth Peters, and Jean-Marie Gorce. <a href="https://www.semanticscholar.org/paper/On-the-Validity-of-Isotropic-Complex-%CE%B1-Stable-for-Ce-heng/01b782890d05de2dfc7416b93bbc8ec9a7bc759c">
+    "On the validity of isotropic complex α-stable interference models for interference in the iot"</a>. 
+    In 2019 GRETSI, Groupe d’Etudes du Traitement du Signal et des Images. 
+  <p>[C2] <b>Ce Zheng</b>, Malcolm Egan, Laurent Clavier, Gareth W. Peters, and Jean-Marie Gorce. <a href="https://ieeexplore.ieee.org/abstract/document/8761783">
+    "Copula-based interference models for IoT wireless networks"</a>.
+    In ICC 2019-2019 IEEE International Conference on Communications (ICC), pp. 1-6. IEEE, 2019.
+  <p>[C1] <b>Ce Zheng</b>, Jiancun Fan, and Xinmin Luo. <a href="https://ieeexplore.ieee.org/abstract/document/7586689">
+    "Spectrum and energy efficiency analysis of ultra dense network with sleep"</a>.
+    In 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN), pp. 392-396. IEEE, 2016.
+    
+ <h1>Thesis</h1>
+  <p><a href="https://tel.archives-ouvertes.fr/tel-03621892/">Impulsive and Dependent Interference in IoT Networks</a>
+  <p><a href="https://lilloa.univ-lille.fr/handle/20.500.12210/62448">Interférence impulsive et dépendante dans les réseaux IoT</a>
+  
+<div id="footer">
+<div id="footer-text">
